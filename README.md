@@ -36,11 +36,6 @@ The categorical plot shows:
   - active
   - overweight
 
-Generated file:
-```text
-catplot.png
-
-
 medical-data-visualizer/
 │
 ├── medical_data_visualizer.py
@@ -61,3 +56,11 @@ python main.py
 
 -Run Unit Tests
 python test_module.py
+
+
+Generated file:
+```text
+catplot.png
+
+
+
